@@ -1,4 +1,5 @@
 # SoilMate
+
 ![](https://github.com/shraddhapandey100/SoilMate/blob/master/public/logo.png)
 
 Farming web-based application combines government-provided plans and schemes for farmers, including advice on crop planting for maximum productivity. Its user-friendly chat function allows for real-time assistance and advice, providing farmers with what they're seeking for effective production and sustainable agricultural methods.
@@ -8,7 +9,7 @@ Farming web-based application combines government-provided plans and schemes for
 
 In the project directory, you can run;
 
-### `npm start`
+### `npm start` 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
